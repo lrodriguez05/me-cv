@@ -10,9 +10,9 @@ export const RESUME_DATA = {
   location: "Mérida, Yucatán, México",
   locationLink: "https://www.google.com/maps/place/M%C3%A9rida,+Yuc",
   about:
-    "Frontend Developer with two years of experience specializing in building web applications using React.js, Node.js, JavaScript, and SQLite. Passionate about creating efficient, clean, and maintainable code while continuously learning modern web development practices.",
+    "Frontend Developer with 1 year of practical experience building web applications, primarily focused on React.js, JavaScript, and TypeScript. Eager to contribute to team projects while continuously strengthening my skills in modern web technologies.",
   summary:
-    "With a solid foundation in React.js, Node.js, and JavaScript, I have developed several personal and academic projects that showcase my problem-solving skills and attention to detail. My experience includes building interactive UIs, managing data with SQLite, and developing backend logic. I thrive in environments where I can combine technical precision with creative solutions.",
+    "Focused on building responsive user interfaces, writing clean components, and integrating RESTful APIs. Enthusiastic about solving UI challenges, optimizing web performance, and learning development best practices within agile teams.",
   avatarUrl:
     "https://media.licdn.com/dms/image/v2/D4E35AQHuE4f6fIB0xg/profile-framedphoto-shrink_800_800/B4EZxd7oDLKsAg-/0/1771102437907?e=1779735600&v=beta&t=qxKzECJqbyfdTPQ5eJABarExmrnHcnm3N_SYfqxmB2Y",
   contact: {
@@ -33,43 +33,44 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "CUJAE - Faculty of Systems Engineering",
-      degree: "Technical Studies in Systems Engineering",
+      school: "CUJAE - Specialized Technical Center",
+      degree: "Higher Technical Certificate in Systems Engineering",
       start: "2020",
       end: "2024",
       description:
-        "Completed a comprehensive four-year technical program focused on software development, databases, and web technologies. Gained hands-on experience in programming with JavaScript, Node.js, and foundational software engineering principles.",
+        "Completed a four-year specialized technical program focused directly on software development, web technologies, and database fundamentals. Gained hands-on programming experience with JavaScript and core software design principles.",
     },
   ],
 
   work: [
     {
-      company: "Freelance / Personal Projects",
+      company: "Freelance / Frontend Developer",
       link: "",
       badges: ["Remote"],
       title: "Frontend Developer",
       logo: Minimal,
-      start: "2024",
+      start: "2025",
       end: "Present",
       description:
-        "Developed personal projects and prototypes using React.js, Node.js, JavaScript, and SQLite. Focused on creating responsive front-end interfaces, managing local databases, and integrating backend logic. Gained practical experience in the full software development lifecycle through self-directed learning and experimentation.",
+        "Developed and deployed production-ready web applications focusing on responsive design and performance optimization. Built reusable UI components with React.js and TypeScript, integrated REST APIs, and managed application state using Context API. Ensured high-quality code delivery using Git workflows and code reviews.",
     },
   ],
   skills: [
-    "JavaScript",
+    "JavaScript (ES6+)",
     "TypeScript",
     "React.js / Next.js",
-    "Node.js",
-    "SQLite",
-    "HTML & CSS",
-    "RESTful APIs",
+    "HTML5 & CSS3 / Tailwind CSS",
+    "State Management (Context API / Redux)",
+    "RESTful APIs / Axios",
+    "Git & GitHub",
+    "Node.js & SQLite (Basic)",
   ],
   projects: [
     {
       title: "Personal Portfolio",
-      techStack: ["React.js", "Vite", "JavaScript"],
+      techStack: ["React.js", "Vite", "Tailwind CSS"],
       description:
-        "A personal portfolio website to showcase my skills and projects.",
+        "A highly responsive portfolio website optimized for core web vitals and modern UI standards.",
       logo: Minimal,
       link: {
         label: "portfolio-v2-rho-rouge.vercel.app",
@@ -77,10 +78,10 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Chat Web App",
-      techStack: ["React.js", "Node.js", "SQLite"],
+      title: "AI Chat Web App",
+      techStack: ["React.js", "TypeScript", "Node.js", "REST API"],
       description:
-        "An AI-powered chat application built with React.js and Node.js.",
+        "An interactive AI-powered chat application featuring real-time state updates, asynchronous data fetching, and an intuitive UI.",
       logo: BarepapersLogo,
       link: {
         label: "github.com/lrodriguez05/second-project-client",
@@ -89,9 +90,9 @@ export const RESUME_DATA = {
     },
     {
       title: "Library Administration Panel",
-      techStack: ["React.js", "API integration", "JavaScript"],
+      techStack: ["React.js", "Context API", "JavaScript", "REST API"],
       description:
-        "A dashboard for managing library operations, including book inventory and user management.",
+        "A comprehensive dashboard for book inventory management, utilizing advanced state handling and CRUD operations with API integration.",
       logo: ParabolLogo,
       link: {
         label: "github.com/lrodriguez05/library-front",
