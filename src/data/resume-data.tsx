@@ -10,14 +10,14 @@ export const RESUME_DATA = {
   location: "Mérida, Yucatán, México",
   locationLink: "https://www.google.com/maps/place/M%C3%A9rida,+Yuc",
   about:
-    "Full Stack Developer with two years of experience specializing in building web applications using React.js, Node.js, JavaScript, and SQLite. Passionate about creating efficient, clean, and maintainable code while continuously learning modern web development practices.",
+    "Frontend Developer with two years of experience specializing in building web applications using React.js, Node.js, JavaScript, and SQLite. Passionate about creating efficient, clean, and maintainable code while continuously learning modern web development practices.",
   summary:
     "With a solid foundation in React.js, Node.js, and JavaScript, I have developed several personal and academic projects that showcase my problem-solving skills and attention to detail. My experience includes building interactive UIs, managing data with SQLite, and developing backend logic. I thrive in environments where I can combine technical precision with creative solutions.",
   avatarUrl:
-    "https://media.licdn.com/dms/image/v2/D4E35AQHuE4f6fIB0xg/profile-framedphoto-shrink_200_200/B4EZxd7oDLKsAY-/0/1771102437907?e=1771718400&v=beta&t=g8heNTuI5q7z3__xzJ9dRsOaP45yDIsEYwOF-q60mhU",
+    "https://media.licdn.com/dms/image/v2/D4E35AQHuE4f6fIB0xg/profile-framedphoto-shrink_800_800/B4EZxd7oDLKsAg-/0/1771102437907?e=1779735600&v=beta&t=qxKzECJqbyfdTPQ5eJABarExmrnHcnm3N_SYfqxmB2Y",
   contact: {
     email: "lazarorodriguezleyva@gmail.com",
-    tel: "+52 99922475721",
+    tel: "+52 9992475721",
     social: [
       {
         name: "GitHub",
